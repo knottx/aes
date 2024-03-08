@@ -10,5 +10,5 @@ abstract class Routes {
 
 abstract class _Paths {
   _Paths._();
-  static const HOME = '/aes';
+  static const HOME = '/';
 }
