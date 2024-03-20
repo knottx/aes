@@ -7,6 +7,7 @@ class InputTextFormField extends TextFormField {
     super.minLines,
     super.maxLines,
     super.validator,
+    super.inputFormatters,
     super.onSaved,
   }) : super(
           decoration: InputDecoration(
