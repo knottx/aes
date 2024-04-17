@@ -57,7 +57,7 @@
       "group": "none",
       "type": "shell",
       "command": "cp",
-      "args": ["-a", "build/web", "docs",]
+      "args": ["-a", "build/web/.", "docs",]
     }
   ]
 }
